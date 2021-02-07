@@ -3,7 +3,8 @@ A super simple ShareX uploader with Discord embed and Twitter Card support.
 
 ### Installation
 First you must require PHP, a web server, htaccess enabled and a domain.  
-Now you will want to download a release and upload the files to your web server. You now can confiure everything in `upload.php`.  
+Now you will want to download a release and upload the files to your web server.  
+Open `upload.php` and at the top of the document you will see multiple options, configure those to your likings.  
 Once everything has been configured you now want to create a folder called `uploads` and make sure the permissions are set to `777`.  
 
 Now you can take the ShareX config from below, configure that and you are ready to use the uploader.  
