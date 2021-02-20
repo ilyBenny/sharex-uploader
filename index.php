@@ -44,6 +44,7 @@
                 <meta name='twitter:card' content='suummary_large_image'>
                 <meta name='twitter:title' content='<?php echo EMBED_TITLE; ?> (<?php echo $filesize; ?>)'>
               <?php endif; ?>
+              <meta name='theme-color' content='<?php echo EMBED_COLOUR; ?>'.
             </head>
             <body>
               <h2><?php echo $_GET["f"]; ?></h2>
